@@ -8,4 +8,4 @@ Azure Link: https://gentle-grass-0a838cf10.1.azurestaticapps.net
 
 - Screeenshots
 
-![](screenshots/Screenshot about.png)
+![](screenshots/Screenshot%20about.png)
