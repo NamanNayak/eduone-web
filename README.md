@@ -1,6 +1,6 @@
 ## eduone-web
 
-# Eduone for every Student 
+### Eduone for every Student 
 
 My Final project
 
