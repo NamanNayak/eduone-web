@@ -1,10 +1,10 @@
-## eduone-web
+# eduone-web
 
 ### Eduone for every Student 
 
 My Final project
 
-**Azure Link**: https://gentle-grass-0a838cf10.1.azurestaticapps.net
+### **Azure Link**: https://gentle-grass-0a838cf10.1.azurestaticapps.net
 
 ## Screenshots
 
@@ -24,4 +24,3 @@ My Final project
 
 - ## Contact Page
 ![Screenshot contact](https://user-images.githubusercontent.com/81967930/193608711-8a5a40de-4155-406d-a89f-b25e7e523156.png)
-
