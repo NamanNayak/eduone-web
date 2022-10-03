@@ -1,2 +1,0 @@
-
-![](screenshot/Screenshot-about.PNG)
